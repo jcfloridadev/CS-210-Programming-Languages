@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Project 1 - Chada Tech/Project 1 - Chada Tech.vcxproj" Id="e12932f9-4e2a-49c6-a817-932f8c8fa984" />
+</Solution>
