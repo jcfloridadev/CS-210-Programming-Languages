@@ -7,11 +7,22 @@ This repository contains a selected project developed as part of my Computer Sci
 
 ---
 
-## Project: Corner Grocer Item Tracking System
+## Featured Project: Corner Grocer Item Tracking System
 
 This project is a C++ console application that simulates an item tracking system for a grocery store.
 
 The program reads item purchase data from an input file and uses a map data structure to calculate the frequency of each item. Users can interact with the system through a menu-driven interface to search for specific items, display all item frequencies, or view a histogram representation of purchase counts.
+
+---
+
+## Other Projects in This Repository
+
+This repository also contains additional coursework projects from CS-210:
+
+- Project 1: Chada Tech Clock Program
+- Project 2: Airgead Banking Investment Program
+
+These projects demonstrate additional C++ concepts such as time formatting, user interaction, and financial calculations.
 
 ---
 
