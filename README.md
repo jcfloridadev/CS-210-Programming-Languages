@@ -20,4 +20,4 @@ This repository contains projects developed as part of my Computer Science cours
 
 ## Author
 Justin Carlo Florida  
-Computer Science Student | SNHU
+Computer Science Student | Software Engineering
